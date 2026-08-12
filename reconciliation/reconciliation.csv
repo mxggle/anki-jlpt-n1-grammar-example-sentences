@@ -1,0 +1,345 @@
+key,legacy_csv_line,ocr_file,ocr_line,old_grammar,ocr_grammar,old_sentence,ocr_sentence,status,changed_fields,audio_action,notes
+第1課 - 1,5,Bunpou_p019-p025_visual.md,23,～が早いか,～が早いか,海外旅行に出発の日、山田さんは空港に着くが早いか、コンビニに駆け込んだ。,海外旅行に出発の日、山田さんは空港に着くが早いか、コンビニに駆け込んだ。,corrected,2;5;9;10;12;16;19-opening,keep,
+第1課 - 2,6,Bunpou_p019-p025_visual.md,24,～が早いか,～が早いか,うちの子はいつも学校から帰ってきて、かばんを放り出すが早いか、遊びに行ってしまう。,うちの子はいつも学校から帰ってきて、かばんを放り出すが早いか、遊びに行ってしまう。,corrected,2;5;9;10;12;16;19-opening,keep,
+第1課 - 3,7,Bunpou_p019-p025_visual.md,25,～が早いか,～が早いか,今朝、寝坊した夫は、朝ご飯を口に押し込むが早いか、玄関を出ていった。,今朝、寝坊した夫は、朝ご飯を口に押し込むが早いか、玄関を出ていった。,corrected,2;5;9;10;12;16;19-opening,keep,
+第1課 - 4,8,Bunpou_p019-p025_visual.md,26,～が早いか,～が早いか,話題のその本は、店頭に並べるが早いか、飛ぶように売れていった。,話題のその本は、店頭に並べられたが早いか、飛ぶように売れていった。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第1課 - 5,9,Bunpou_p019-p025_visual.md,33,～や・～や否や,～や・～や否や,わたしはその人の顔を一目見るや、30年前に別れた恋人だと気がついた。,わたしはその人の顔を一目見るや、30年前に別れた恋人だと気がついた。,corrected,2;5;9;10;12;16;19-opening,keep,
+第1課 - 6,10,Bunpou_p019-p025_visual.md,34,～や・～や否や,～や・～や否や,子供たちは唐揚げが大好物で、食卓に出るや、あっという間になくなってしまう。,子供たちは唐揚げが大好物で、食卓に出すや、あっという間になくなってしまう。,corrected,5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第1課 - 7,11,Bunpou_p019-p025_visual.md,35,～や・～や否や,～や・～や否や,選挙戦が始まるや否や、あちこちからにぎやかな声が聞こえてきた。,選挙戦が始まるや否や、あちこちからにぎやかな声が聞こえてきた。,corrected,2;5;9;10;12;16;19-opening,keep,
+第1課 - 8,12,Bunpou_p019-p025_visual.md,36,～や・～や否や,～や・～や否や,この病気の新しい治療法が発表されるや否や、全国の病院から問い合わせが殺到した。,この病気の新しい治療法が発表されるや否や、全国の病院から問い合わせが殺到した。,corrected,2;5;9;10;12;16;19-opening,keep,
+第1課 - 9,13,Bunpou_p019-p025_visual.md,43,～なり,～なり,夜はコーヒーを一口飲むなり、吐き出してしまった。,彼はコーヒーを一口飲むなり、吐き出してしまった。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第1課 - 10,14,Bunpou_p019-p025_visual.md,44,～なり,～なり,課長は部屋に入ってくるなり、大声でどなった。,課長は部屋に入ってくるなり、大声でどなった。,corrected,2;5;9;10;12;16;19-opening,keep,
+第1課 - 11,15,Bunpou_p019-p025_visual.md,45,～なり,～なり,田中さんは携帯電話を切るなり、わたしを呼びつけた。,田中さんは携帯電話を切るなり、わたしを呼びつけた。,corrected,2;5;9;10;12;16;19-opening,keep,
+第1課 - 12,16,Bunpou_p019-p025_visual.md,68,～そばから,～そばから,毎日返事を書くそばから新しいメールが来る。,毎日返事を書くそばから、次々に新しいメールが来る。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第1課 - 13,17,Bunpou_p019-p025_visual.md,69,～そばから,～そばから,このテキストは漢字が多くて大変だ。調べたそばから新しい漢字が出てくる。,このテキストは漢字が多くて大変だ。調べたそばから新しい漢字が出てくる。,corrected,2;5;9;10;12;16;19-opening,keep,
+第1課 - 14,18,Bunpou_p019-p025_visual.md,70,～そばから,～そばから,月末になると、払ったそばからまた別の請求書が来る。,月末になると、払ったそばからまた別の請求書が来る。,corrected,2;5;9;10;12;16;19-opening,keep,
+第1課 - 15,19,Bunpou_p019-p025_visual.md,77,～てからというもの(は),～てからというもの(は),娘が大学に入り家を出ていってからというもの、家の中が寂しくなった。,娘が大学に入り家を出ていってからというもの、家の中が寂しくなった。,corrected,2;5;9;10;12;16;19-opening,keep,
+第1課 - 16,20,Bunpou_p019-p025_visual.md,78,～てからというもの(は),～てからというもの(は),子供が生まれてからというものは、子供のおもちゃばかり見て歩いています。,子供が生まれてからというものは、子供のおもちゃばかり見て歩いています。,corrected,2;5;9;10;12;16;19-opening,keep,
+第1課 - 17,21,Bunpou_p019-p025_visual.md,79,～てからというもの(は),～てからというもの(は),日本に来てからというもの、国の家族のことを思わない日はない。,日本に来てからというもの、国の家族のことを思わない日はない。,corrected,2;5;9;10;12;16;19-opening,keep,
+第1課 - 18,22,Bunpou_p019-p025_visual.md,86,～にあって,～にあって,暮らしては乾燥地にあって、ここに外装を蓄えることによって生き延びているのである。,らくだは乾燥地にあって、こぶに栄養を蓄えることによって生き延びているのである。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第1課 - 19,23,Bunpou_p019-p025_visual.md,87,～にあって,～にあって,明治時代の初め、日本はまさに発展途上期にあって、みな生き生きとしていた。,明治時代の初め、日本はまさに発展途上期にあって、みな生き生きとしていた。,corrected,9;10;12;16,keep,
+第1課 - 20,24,Bunpou_p019-p025_visual.md,88,～にあって,～にあって,最近の不況下にあっても、この会社製品は売れ行きが落ちていない。,最近の不況下にあっても、この会社の製品は売れ行きが落ちていない。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第2課 - 1,25,Bunpou_p019-p025_visual.md,223,～を皮切りにして・～を皮切りとして,～を皮切りに（して）・～を皮切りとして,この作家は自分の父親の書いた小説を皮切りに、次々に話題作を発表している。,この作家は自分の父親のことを書いた小説を皮切りに、次々に話題作を発表している。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第2課 - 2,26,Bunpou_p019-p025_visual.md,224,～を皮切りにして・～を皮切りとして,～を皮切りに（して）・～を皮切りとして,わたしたちのバンドは来月3日の東京公演を皮切りに、全国ツアーを予定しています。,わたしたちのバンドは来月3日の東京公演を皮切りにして、全国ツアーを予定しています。,corrected,3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第2課 - 3,27,Bunpou_p019-p025_visual.md,225,～を皮切りにして・～を皮切りとして,～を皮切りに（して）・～を皮切りとして,K銀行とM銀行の合併を皮切りとして、ここ数年企業の合併・統合が相次いで行われている。,K銀行とM銀行の合併を皮切りとして、ここ数年企業の合併・統合が相次いで行われている。,corrected,3;9;10;12;16,keep,
+第2課 - 4,28,Bunpou_p019-p025_visual.md,232,～に至るまで,～に至るまで,わたしの学校は服装に厳しい。制服の着方はもちろん、ヘアスタイルやスカートの長さにまで至るまで注意される。,わたしの学校は服装に厳しい。制服の着方はもちろん、ヘアスタイルやスカートの長さに至るまで注意される。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第2課 - 5,29,Bunpou_p019-p025_visual.md,233,～に至るまで,～に至るまで,今度の旅行のスケジュールは綿密だ。起床時間から飛行機内の食事開始時間に至るまで書いてある。,今度の旅行のスケジュール表は綿密だ。起床時間から飛行機内の食事開始時間に至るまで書いてある。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第2課 - 6,30,Bunpou_p019-p025_visual.md,234,～に至るまで,～に至るまで,父の趣味は料理だ。食材も自家製でないと気が済まないらしく、みそ、豆腐に至るまで自分で作ります。,父の趣味は料理です。食材も自家製でないと気が済まないらしく、みそ、豆腐に至るまで自分で作ります。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第2課 - 7,31,Bunpou_p019-p025_visual.md,257,～を限り(に),～を限りに,本年度を限りにこの講座の受講生募集を行わないことになりました。,本年度を限りにこの講座の受講生募集を行わないことになりました。,corrected,3;9;10;12;16,keep,
+第2課 - 8,32,Bunpou_p019-p025_visual.md,258,～を限り(に),～を限りに,今日を限りにたばこをやめるぞ！,今日を限りにたばこをやめるぞ！,corrected,3;9;10;12;16,keep,
+第2課 - 9,33,Bunpou_p019-p025_visual.md,259,～を限り(に),～を限りに,これを限りににお前とは親子の縁を切る。以後親でもなく、子でもない。,これを限りにお前とは親子の縁を切る。以後親でもなく、子でもない。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第2課 - 10,34,Bunpou_p019-p025_visual.md,267,～をもって,～をもって,これをもって第35回卒業証書授与式を終わります。,これをもって第35回卒業証書授与式を終わります。,corrected,2;5;9;10;12;16,keep,
+第2課 - 11,35,Bunpou_p019-p025_visual.md,268,～をもって,～をもって,2月20日をもって願書受け付けを締め切ります。遅れないように出してください。,2月20日をもって願書受け付けを締め切ります。遅れないように出してください。,corrected,2;5;9;10;12;16;19-opening,keep,
+第2課 - 12,36,Bunpou_p019-p025_visual.md,269,～をもって,～をもって,当店は今月末をもちまして閉店させていただきます。長い間のご利用ありがとうございました。,当店は9月末日をもちまして閉店させていただきました。長い間のご利用ありがとうございました。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第2課 - 13,37,Bunpou_p019-p025_visual.md,276,～といったところだ,～といったところだ,当地は最も暑い日でも26、7度といったところだ。,当地は夏もそれほど暑くありません。最高に暑い日でも26、7度といったところです。,corrected,2;5;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第2課 - 14,38,Bunpou_p019-p025_visual.md,277,～といったところだ,～といったところだ,この山歩き会は毎月山歩きを行っていますが、参加者は毎回せいぜい6、7人といったところです。,この山歩き会では毎月山歩きを行っていますが、参加者は毎回せいぜい6、7人といったところです。,corrected,2;5;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第2課 - 15,39,Bunpou_p019-p025_visual.md,278,～といったところだ,～といったところだ,休みがあってもほとんど遠出はしません。せいぜい1泊で温泉に行ったといったところでしょうか。,休みがあってもほとんど遠出はしません。せいぜい1泊で温泉に行くといったところでしょうか。,corrected,2;5;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第3課 - 1,40,Bunpou_p26-p32_visual.md,95,～をおいて,～をおいて,今、こんな素晴らしい色使いの染色ができる人は、彼を置いてほかにいない。,今、こんな素晴らしい色使いの染色ができる人は、彼をおいてほかにいない。,corrected,5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第3課 - 2,41,Bunpou_p26-p32_visual.md,97,～をおいて,～をおいて,日本で世界的な平和会議を行うなら、広島か長崎を置いてほかに候補地は考えられない。,日本で世界的な平和会議を行うなら、広島か長崎をおいてほかに候補地は考えられない。,corrected,5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第3課 - 3,42,Bunpou_p26-p32_visual.md,99,～をおいて,～をおいて,毎年夏にはこのホテルに来ている。心からくつろげる場所はここを置いてほかにない。,毎年夏にはこのホテルに来ている。心からくつろげる場所はここをおいてほかにない。,corrected,5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第3課 - 4,43,Bunpou_p26-p32_visual.md,109,～ならでは,～ならでは,さすが歌舞伎俳優の〜を助さん役で演じたのは、彼ならではの演技だ。ほれぼれするほどリアリティーがある。,さすが歌舞伎俳優の一之助さんならではの演技だ。ほれぼれするほどリアリティーがある。,corrected,2;5;9;10;12;19-opening,review_or_rerecord,translation and generated analysis require review
+第3課 - 5,44,Bunpou_p26-p32_visual.md,111,～ならでは,～ならでは,ぜひ一度ヨットに乗ってみたい。これならではの体験はハワイならではですよ。,ぜひ一度ヨットに乗ってみてはいかがですか。この体験はハワイならではですよ。,corrected,2;5;9;10;12;19-opening,review_or_rerecord,translation and generated analysis require review
+第3課 - 6,45,Bunpou_p26-p32_visual.md,113,～ならでは,～ならでは,この布製の袋にはぬくもりが感じられる。手作りならではの味！,この布製の袋にはぬくもりが感じられる。手作りならではだと思う。,corrected,2;5;9;10;12;19-opening,review_or_rerecord,translation and generated analysis require review
+第3課 - 7,46,Bunpou_p26-p32_visual.md,115,～ならでは,～ならでは,100年続いた老舗ならでは出せないこの味の良さ！,100年続いた老舗ならでは出せないこの味の良さ！　店主が変わっても全く味が落ちていない。,corrected,2;5;9;10;12;19-opening,review_or_rerecord,translation and generated analysis require review
+第3課 - 8,47,Bunpou_p26-p32_visual.md,127,～にとどまらず,～にとどまらず,マスメディアによる情報というものは、今や一国にとどまらず、世界中に伝わる。,マスメディアによる情報というものは、今や一国にとどまらず、世界中に伝わる。,corrected,9;10;12;16,keep,
+第3課 - 9,48,Bunpou_p26-p32_visual.md,129,～にとどまらず,～にとどまらず,農作物は、台風に襲われた直後にとどまらず、一年中その影響を受ける。,農作物は、台風に襲われた直後にとどまらず、一年中その影響を受ける。,corrected,9;10;12;16,keep,
+第3課 - 10,49,Bunpou_p26-p32_visual.md,131,～にとどまらず,～にとどまらず,一人の人間の明るさは、場を明るくするにとどまらず、周囲の人々に心身の活力を与える。,一人の人間の明るさは、場を明るくするにとどまらず、周囲の人々に心身の活力をも与える。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第3課 - 11,50,Bunpou_p26-p32_visual.md,155,～はおろか,～はおろか,手間がかかる料理はおろか、日常の簡単な料理を作るのさえ面倒だ。,手間がかかる料理はおろか、日常の簡単な料理を作るのさえ面倒だ。,corrected,9;10;12;16,keep,
+第3課 - 12,51,Bunpou_p26-p32_visual.md,157,～はおろか,～はおろか,小言を取り巻く状況は厳しい。町の専門店はおろか、有名デパートの閉店が相次いでいる。,小売店を取り巻く状況は厳しい。町の専門店はおろか、有名デパートの閉店も相次いでいる。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第3課 - 13,52,Bunpou_p26-p32_visual.md,159,～はおろか,～はおろか,わたしは花粉症がひどくて、外ではおろか、家の中でさえマスクがはずせない。,わたしは花粉症がひどくて、外ではおろか、家の中でさえマスクがはずせない。,corrected,9;10;12;16,keep,
+第3課 - 14,53,Bunpou_p26-p32_visual.md,169,～もさることながら,～もさることながら,この作家が書くものは、鋭い感性もさることながら、注意深く選ばれた語彙と文の運びが素晴らしい。,この作家が書くものは、鋭い感性もさることながら、注意深く選ばれた語彙と文の運び方が素晴らしい。,corrected,2;5;9;10;12;19-opening,review_or_rerecord,translation and generated analysis require review
+第3課 - 15,54,Bunpou_p26-p32_visual.md,171,～もさることながら,～もさることながら,彼は人柄もさることながら、その頭の働きで周囲の人をぐいぐい引っ張っていく。,彼は人格もさることながら、その頭の働きの良さで周囲の人をぐいぐい引っ張っていく。,corrected,2;5;9;10;12;19-opening,review_or_rerecord,translation and generated analysis require review
+第3課 - 16,55,Bunpou_p26-p32_visual.md,173,～もさることながら,～もさることながら,若者の政治的無関心もさることながら、社会全体に政治に対する無力感が広がっているような気がする。,若者の政治的無関心もさることながら、社会全体に政治に対する無力感が広がっているような気がする。,corrected,9;10;12,keep,
+第4課 - 1,56,Bunpou_p26-p32_visual.md,306,～なり…なり,～なり…なり,昼休みは40分しかないんだから、おにぎりなりサンドイッチなり何か買って早く食べたほうがいい。,昼休みは40分しかないんだから、おにぎりなりサンドイッチなり何か買って早く食べたほうがいい。,corrected,9;10;12;16,keep,
+第4課 - 2,57,Bunpou_p26-p32_visual.md,308,～なり…なり,～なり…なり,お手伝いできることはいたしますよ。わたしなりに力になってください。,お手伝いできることはいたしますよ。わたしになり兄になり言ってください。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第4課 - 3,58,Bunpou_p26-p32_visual.md,310,～なり…なり,～なり…なり,言葉の意味がわからないならわからないなりに、辞書で調べるなりインターネットで探してみるなりしたらどうですか。,言葉の意味がわからなかったらわからないままにしないで、辞書で調べるなりインターネットで探してみるなりしてみたらどうですか。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第4課 - 4,59,Bunpou_p26-p32_visual.md,312,～なり…なり,～なり…なり,この魚、彼が釣ったんだ。焼くなり煮るなりして食べてみて。,この魚、僕が釣ったんだ。焼くなり煮るなりして食べてみて。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第4課 - 5,60,Bunpou_p26-p32_visual.md,322,～であれ…であれ・～であろうと…であろうと,～であれ…であれ・～であろうと…であろうと,地震であれ火事であれ、緊急の場合に冷静になれる人は少ないだろう。,地震であれ火事であれ、緊急の場合に冷静になれる人は少ないだろう。,corrected,2;5;9;10;12;16;19-opening,keep,
+第4課 - 6,61,Bunpou_p26-p32_visual.md,324,～であれ…であれ・～であろうと…であろうと,～であれ…であれ・～であろうと…であろうと,文学であれ音楽であれ、芸術には才能が必要なのだ。努力だけではだめなのだ。,文学であれ音楽であれ、芸術には才能が必要なのだ。努力だけではだめなのだ。,corrected,2;5;9;10;12;16;19-opening,keep,
+第4課 - 7,62,Bunpou_p26-p32_visual.md,326,～であれ…であれ・～であろうと…であろうと,～であれ…であれ・～であろうと…であろうと,禁煙であれ禁酒であれ、周りの人の協力が大切だと思う。,禁煙であれ禁酒であれ、周りの人の協力が大切だと思う。,corrected,2;5;9;10;12;16;19-opening,keep,
+第4課 - 8,63,Bunpou_p26-p32_visual.md,328,～であれ…であれ・～であろうと…であろうと,～であれ…であれ・～であろうと…であろうと,ビールであろうとワインであろうと、酒は酒だ。運転前に絶対飲んではいけない。,ビールであろうとワインであろうと、酒は酒だ。運転前に絶対飲んではいけない。,corrected,2;5;9;10;12;16;19-opening,keep,
+第4課 - 9,64,Bunpou_p26-p32_visual.md,352,～といい…といい,～といい…といい,この映画は映像の美しさといい音楽の素晴らしさといい、最高の作品だ。,この映画は映像の美しさといい音楽の素晴らしさといい、最高の作品だ。,corrected,9;10;12;16,keep,
+第4課 - 10,65,Bunpou_p26-p32_visual.md,354,～といい…といい,～といい…といい,中島さんといい松本さんといい、うちの課の人はみんな話が面白い。,中島さんといい松本さんといい、うちの課の人はみんな話が面白い。,corrected,9;10;12;16,keep,
+第4課 - 11,66,Bunpou_p26-p32_visual.md,356,～といい…といい,～といい…といい,この虫は色といい形といい、木の葉にそっくりだ。,この虫は色といい形といい、木の葉にそっくりだ。,corrected,9;10;12;16,keep,
+第4課 - 12,67,Bunpou_p26-p32_visual.md,366,～といわず…といわず,～といわず…といわず,砂浜で遊んだ子供たちは、手といわず足といわず全身砂だらけだ。,砂浜で遊んでいた子供たちは、手といわず足といわず全身砂だらけだ。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第4課 - 13,68,Bunpou_p26-p32_visual.md,368,～といわず…といわず,～といわず…といわず,室内で犬を飼っているので、廊下といわず部屋の中といわず家中犬の毛が落ちている。,室内で犬を飼っているので、廊下といわず部屋の中といわず家中犬の毛が落ちている。,corrected,9;10;12;16,keep,
+第4課 - 14,69,Bunpou_p26-p32_visual.md,370,～といわず…といわず,～といわず…といわず,営業マンの田中さんは平日といわず週末といわずに休む暇なく社外に出て働いている。,営業マンの島田さんは平日といわず週末といわず休む暇なく社外に出て働いている。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第5課 - 1,70,Bunpou_p33-p39_visual.md,251,～いかんだ,～いかんだ,世界選手権大会をこの国で開催できるかどうかは、国民の協力いかんだ。,世界選手権大会をこの国で開催できるかどうかは、国民の協力いかんだ。,corrected,9;10;12;16,keep,
+第5課 - 2,71,Bunpou_p33-p39_visual.md,253,～いかんだ,～いかんだ,筆記試験にパスした。明日の面接の結果いかんだで採用が決まるそうだ。,筆記試験はパスした。あしたの面接の結果いかんで採用が決まるそうだ。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第5課 - 3,72,Bunpou_p33-p39_visual.md,255,～いかんだ,～いかんだ,申し込み者数いかんでは、ツアーを中止しなければならないかもしれない。,申し込み者数いかんでは、ツアーを中止しなければならないかもしれない。,corrected,2;5;9;10;12;16,keep,
+第5課 - 4,73,Bunpou_p33-p39_visual.md,257,～いかんだ,～いかんだ,支持率いかんでは、今の政権も長くは続かないだろう。,支持率いかんでは、今の政権も長くは続かないだろう。,corrected,2;5;9;10;12;16,keep,
+第5課 - 5,74,Bunpou_p33-p39_visual.md,267,～いかんにかかわらず・～いかんによらず・～いかんを問わず,～いかんにかかわらず・～いかんによらず・～いかんを問わず,内容のいかんにかかわらず、個人情報の問い合わせにはお答えしておりません。,内容のいかんにかかわらず、個人情報の問い合わせにはお答えしておりません。,corrected,12;16,keep,
+第5課 - 6,75,Bunpou_p33-p39_visual.md,269,～いかんにかかわらず・～いかんによらず・～いかんを問わず,～いかんにかかわらず・～いかんによらず・～いかんを問わず,明日の試合の結果いかんによらず、優勝できることは決まってしまった。,明日の試合の結果いかんによらず、優勝できないことは決まってしまった。,corrected,2;5;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第5課 - 7,76,Bunpou_p33-p39_visual.md,271,～いかんにかかわらず・～いかんによらず・～いかんを問わず,～いかんにかかわらず・～いかんによらず・～いかんを問わず,当社は学歴・年齢・過去の実績のいかんを問わず、初任給は一律です。,当社は学歴・年齢・過去の実績のいかんを問わず、初任給は一律です。,corrected,12;16,keep,
+第5課 - 8,77,Bunpou_p33-p39_visual.md,290,～をものともせずに(に),～をものともせず(に),彼は体の障害をものともせず、精力的に活動している。,彼は体の障害をものともせずに、精力的に活動している。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第5課 - 9,78,Bunpou_p33-p39_visual.md,292,～をものともせずに(に),～をものともせず(に),母は難病にかかったが、がんの苦痛をものともせず、最期まで明るくふるまった。,母は強かった。がんの宣告をものともせず、最期まで明るくふるまった。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第5課 - 10,79,Bunpou_p33-p39_visual.md,294,～をものともせずに(に),～をものともせず(に),緑隊たちは危険をものともせずに、行方不明の人の捜索を続けた。,隊員たちは危険をものともせずに、行方不明の人の捜索を続けた。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第5課 - 11,80,Bunpou_p33-p39_visual.md,304,～をよそに,～をよそに,家族の心配をよそに、子供は退院したその日から友達と遊びに出かけた。,家族の心配をよそに、子供は退院したその日から友達と遊びに出かけた。,corrected,2;5;9;10;12;16;19-opening,keep,
+第5課 - 12,81,Bunpou_p33-p39_visual.md,306,～をよそに,～をよそに,住民たちの抗議活動をよそに、ダムの建設計画が進められている。,住民たちの抗議行動をよそに、ダムの建設計画が進められている。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第5課 - 13,82,Bunpou_p33-p39_visual.md,308,～をよそに,～をよそに,彼は周囲の人たちの不安をよそに、再び戦地の取材に出発した。,彼は周囲の人たちの不安をよそに、再び戦地の取材に出発していった。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第5課 - 14,83,Bunpou_p33-p39_visual.md,318,～ならいざしらず,～ならいざしらず,安いホテルならいざしらず、一流ホテルでこんなサービスが悪いなんて許せない。,安いホテルならいざしらず、一流ホテルでこんなにサービスが悪いなんて許せない。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第5課 - 15,84,Bunpou_p33-p39_visual.md,320,～ならいざしらず,～ならいざしらず,祖父母の代ならいざしらず、今の時代に「手ぬぐい」なんてあまり使わない。,祖父母の代ならいざしらず、今の時代に「手ぬぐい」なんてあまり使わないよ。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第5課 - 16,85,Bunpou_p33-p39_visual.md,322,～ならいざしらず,～ならいざしらず,ヒマラヤ登山をするのならいざしらず、その辺の山へ行くのにそんなに重装備でなければいけないのか。,ヒマラヤ登山をするのならいざしらず、その辺の山へ行くのにそんなに重装備でなければいけないのか。,corrected,9;10;12;16,keep,
+第5課 - 17,86,Bunpou_p33-p39_visual.md,324,～ならいざしらず,～ならいざしらず,治療の難しい病気ならいざしらず、ごくある病気でこんなに心配することはありませんよ。,治療が難しいのならいざしらず、よくある病気ですから、そんなに心配することはありませんよ。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第6課 - 1,87,Bunpou_p40-p46_visual.md,90,～んばかリだ,～んばかりだ,彼は力強くうなずいた。任せろと言わんばかりだった。,彼は力強くうなずいた。任せろと言わんばかりだった。,corrected,2;3;5;9;10;12;16;19-opening,keep,
+第6課 - 2,88,Bunpou_p40-p46_visual.md,91,～んばかリだ,～んばかりだ,頭を畳に押しつけんばかりにわびたのに、父は許してくれなかった。,頭を畳につけんばかりにしてわびたのに、父は許してくれなかった。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第6課 - 3,89,Bunpou_p40-p46_visual.md,92,～んばかリだ,～んばかりだ,観客が興奮した様子で、会場は割れんばかりの拍手が起こった。,演奏が終わったとき、会場には割れんばかりの拍手が起こった。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第6課 - 4,90,Bunpou_p40-p46_visual.md,93,～んばかリだ,～んばかりだ,かごいっぱい、あふれんばかりのさくらんぼをいただいた。,かごいっぱい、あふれんばかりのさくらんぼをいただいた。,corrected,3;9;10;12;16,keep,
+第6課 - 5,91,Bunpou_p40-p46_visual.md,103,～とばかりに(に),～とばかり(に),ケーキを買って帰ったら、「待ってました」とばかりに、みんながテーブルに集まった。,ケーキを買って帰ったら、「待ってました」とばかり、みんながテーブルに集まった。,corrected,3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第6課 - 6,92,Bunpou_p40-p46_visual.md,104,～とばかりに(に),～とばかり(に),子供はもう歩けないとばかりに、その場にしゃがみ込んでしまった。,子供はもう歩けないとばかりに、その場にしゃがみ込んでしまった。,corrected,3;9;10;12;16,keep,
+第6課 - 7,93,Bunpou_p40-p46_visual.md,105,～とばかりに(に),～とばかり(に),開発計画について意見交換が行われた。住民たちはこの時とばかりに、いろいろな意見を言った。,開発計画について意見交換会が行われた。住民たちはこの時とばかり、いろいろな意見を言った。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第6課 - 8,94,Bunpou_p40-p46_visual.md,115,～ともなく・～ともなしに,～ともなく・～ともなしに,テレビを見るともなく見ていたら、友達がテレビに出ていてびっくりした。,テレビを見るともなく見ていたら、友達がテレビに出ていてびっくりした。,corrected,9;10;16,keep,
+第6課 - 9,95,Bunpou_p40-p46_visual.md,116,～ともなく・～ともなしに,～ともなく・～ともなしに,朝起きて、するともなくしばらくぼんやりしていた。,朝起きて、何をするともなくしばらくぼんやりしていた。,corrected,2;5;9;10;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第6課 - 10,96,Bunpou_p40-p46_visual.md,117,～ともなく・～ともなしに,～ともなく・～ともなしに,カーラジオの音楽を聞くともなしに聞いていたら、眠くなってしまった。,カーラジオの音楽を聞くともなしに聞いていたら、眠くなってしまった。,corrected,9;10;16,keep,
+第6課 - 11,97,Bunpou_p40-p46_visual.md,131,～ともなく・～ともなしに,～ともなく・～ともなしに,どこからともなく、おいしそうなカレーの匂いがしてくる。,どこからともなく、おいしそうなカレーのにおいがしてくる。,corrected,2;5;9;10;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第6課 - 12,98,Bunpou_p40-p46_visual.md,132,～ともなく・～ともなしに,～ともなく・～ともなしに,だれともなく、黒田さんのことをタマちゃんとあだ名で呼び始めた。,だれともなく、熊田さんのことをクマちゃんとあだ名で呼び始めた。,corrected,2;5;9;10;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第6課 - 13,99,Bunpou_p40-p46_visual.md,133,～ともなく・～ともなしに,～ともなく・～ともなしに,いつからともなしに、わたしはモーツァルトの音楽が大好きになった。,いつからともなしに、わたしはモーツァルトの音楽が大好きになった。,corrected,2;5;9;10;16;19-opening,keep,
+第6課 - 14,100,Bunpou_p40-p46_visual.md,143,～ながらにして,～ながらに（して）,この子は生まれながらにして優れた音感を持っていた。,この子は生まれながらに優れた音感を持っていた。,corrected,3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第6課 - 15,101,Bunpou_p40-p46_visual.md,144,～ながらにして,～ながらに（して）,インターネットのおかげで、今は家にいながらにして世界中の人と交流できる。,インターネットのおかげで、今は家にいながらにして世界中の人と交流できる。,corrected,2;3;5;9;10;12;16;19-opening,keep,
+第6課 - 16,102,Bunpou_p40-p46_visual.md,145,～ながらにして,～ながらに（して）,この辺りは昔ながらの田舎の雰囲気が残っている。,この辺りは昔ながらの田舎の雰囲気が残っている。,corrected,2;3;5;9;10;12;16;19-opening,keep,
+第6課 - 17,103,Bunpou_p40-p46_visual.md,146,～ながらにして,～ながらに（して）,その女性は母親との死別を涙ながらに語った。,その女性は母親との死別を涙ながらに語った。,corrected,2;3;5;9;10;12;16;19-opening,keep,
+第6課 - 18,104,Bunpou_p40-p46_visual.md,156,～きらいがある,～きらいがある,彼はどうも物事を悲観的に考えるきらいがある。,彼はどうも物事を悲観的に考えるきらいがある。,corrected,2;5;9;10;12;16;19-opening,keep,
+第6課 - 19,105,Bunpou_p40-p46_visual.md,157,～きらいがある,～きらいがある,うちの部長は、何かと違う方を通り過ぎて考えるきらいがある。,うちの部長は自分と違う考え方を認めようとしないきらいがある。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第6課 - 20,106,Bunpou_p40-p46_visual.md,158,～きらいがある,～きらいがある,松本さんは一度言い出したら人の意見に耳を傾けない。少し独断のきらいがある。,松本さんは一度言い出したら人の意見に耳を傾けない。少し独断のきらいがある。,corrected,9;10;12;16,keep,
+第7課 - 1,107,Bunpou_p40-p46_visual.md,316,～がてら,～がてら,散歩がてらちょっとパンを買いに行ってきます。,散歩がてらちょっとパンを買いに行ってきます。,corrected,9;10;12,keep,
+第7課 - 2,108,Bunpou_p40-p46_visual.md,317,～がてら,～がてら,花火の見物がてら、もう一度うちへもおいでください。,花火の見物がてら一度うちへもおいでください。,corrected,2;5;9;10;12;19-opening,review_or_rerecord,translation and generated analysis require review
+第7課 - 3,109,Bunpou_p40-p46_visual.md,318,～がてら,～がてら,友達を駅まで送りがてらDVDを返してきた。,友達を駅まで送りがてらDVDを返してきた。,corrected,9;10;12,keep,
+第7課 - 4,110,Bunpou_p40-p46_visual.md,328,～かたがた,～かたがた,部長のお礼かたがたごあいさつに行こうと思っています。,部長のお宅へお礼かたがたごあいさつに行こうと思っています。,corrected,2;5;9;10;12;19-opening,review_or_rerecord,translation and generated analysis require review
+第7課 - 5,111,Bunpou_p40-p46_visual.md,329,～かたがた,～かたがた,ご報告かたがた一度お伺いしたいのですが……。,ご報告かたがた一度伺いたいのですが……。,corrected,2;5;9;10;12;19-opening,review_or_rerecord,translation and generated analysis require review
+第7課 - 6,112,Bunpou_p40-p46_visual.md,330,～かたがた,～かたがた,見学かたがたその祖父が入所している老人ホームを訪ねた。,見学かたがた祖父が入所している老人ホームを訪ねた。,corrected,2;5;9;10;12;19-opening,review_or_rerecord,translation and generated analysis require review
+第7課 - 7,113,Bunpou_p40-p46_visual.md,340,～かたわら,～かたわら,彼は教師の仕事をするかたわら小説を書いている。,彼は教師の仕事をするかたわら小説を書いている。,corrected,9;10;12;16,keep,
+第7課 - 8,114,Bunpou_p40-p46_visual.md,341,～かたわら,～かたわら,わたしは会社勤務のかたわら子供たちにサッカーを教えています。,わたしは会社勤務のかたわら子供たちにサッカーを教えています。,corrected,9;10;12;16,keep,
+第7課 - 9,115,Bunpou_p40-p46_visual.md,342,～かたわら,～かたわら,母は主婦としての仕事のかたわら日本語を教えるボランティアをしている。,母は主婦としての仕事のかたわら日本語を教えるボランティアをしている。,corrected,9;10;12;16,keep,
+第8課 - 1,116,Bunpou_p47-p53_visual.md,21,～ところを,～ところを,ご報告しなければいけないところを遅くなってしまって申し訳ありません。,すぐにご報告しなければいけないところを遅くなってしまって申し訳ありません。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第8課 - 2,117,Bunpou_p47-p53_visual.md,23,～ところを,～ところを,お急ぎのところをすみません。ちょっと伺ってもよろしいでしょうか。,お急ぎのところをすみません。ちょっと伺ってもよろしいでしょうか。,corrected,9;10;12;16,keep,
+第8課 - 3,118,Bunpou_p47-p53_visual.md,25,～ところを,～ところを,こちらからお願いに伺うべきところを先方からおいでいただき、恐縮した。,こちらからお願いに伺うべきところを先方からおいでいただき、恐縮した。,corrected,9;10;12;16,keep,
+第8課 - 4,119,Bunpou_p47-p53_visual.md,35,～ものを,～ものを,安静にしていれば治るものを、田中さんはすぐに働き始めて、また病気を悪化させてしまった。,安静にしていれば治るものを、田中さんはすぐに働き始めて、また病気を悪化させてしまった。,corrected,9;10;12;16,keep,
+第8課 - 5,120,Bunpou_p47-p53_visual.md,37,～ものを,～ものを,もっと慎重に調べれば誤解されないものを、彼の強引なやり方がいつも誤解を招く。,もっと慎重にやれば誤解されないものを、彼の強引なやり方がいつも誤解を招く。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第8課 - 6,121,Bunpou_p47-p53_visual.md,39,～ものを,～ものを,よせばいいものを、彼は社長に大声で文句を言った。そのため会社を首になった。,よせばいいものを、彼は社長に大声で文句を言った。そのため会社を首になった。,corrected,2;5;9;10;12;16,keep,
+第8課 - 7,122,Bunpou_p47-p53_visual.md,41,～ものを,～ものを,一言声をかけてくれれば手伝ったものを。,一言声をかけてくれれば手伝ったものを。,corrected,9;10;12;16,keep,
+第8課 - 8,123,Bunpou_p47-p53_visual.md,51,～とはいえ,～とはいえ,ダイエット中とはいえ、出されたごちそうを手につけないなんて失礼だと思う。,ダイエット中とはいえ、出されたごちそうに手をつけないなんて失礼だと思う。,corrected,2;5;9;10;12;19-opening,review_or_rerecord,translation and generated analysis require review
+第8課 - 9,124,Bunpou_p47-p53_visual.md,53,～とはいえ,～とはいえ,まだ締め切りまで時間があるとはいえ、早めに完成させておいたほうがいい。,まだ締め切りまで時間があるとはいえ、早めに完成させておいたほうがいい。,corrected,9;10;12,keep,
+第8課 - 10,125,Bunpou_p47-p53_visual.md,55,～とはいえ,～とはいえ,12月に入ったとはいえ、まだ年末という気がしない。,12月に入ったとはいえ、まだ年末という気がしない。,corrected,9;10;12,keep,
+第8課 - 11,126,Bunpou_p47-p53_visual.md,57,～とはいえ,～とはいえ,あの時は仕方がなかったとはいえ、ご迷惑をおかけしました。,あの時は仕方がなかったとはいえ、ご迷惑をおかけしました。,corrected,9;10;12,keep,
+第8課 - 12,127,Bunpou_p47-p53_visual.md,73,～といえども,～といえども,未成年者といえども、公共の場で勝手なことをしてはならない。,未成年者といえども、公共の場で勝手なことをしてはならない。,corrected,9;10;12;16,keep,
+第8課 - 13,128,Bunpou_p47-p53_visual.md,75,～といえども,～といえども,いかに困難な状況にあったといえども、罪を犯したことは許されない。,いかに困難な状況にあったといえども、罪を犯したことは許されない。,corrected,9;10;12;16,keep,
+第8課 - 14,129,Bunpou_p47-p53_visual.md,77,～といえども,～といえども,人間は自然災害に無力だといえども、国を挙げての対策を強化する必要がある。,人間は自然災害に対して無力といえども、国を挙げての対策を強化する必要がある。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第8課 - 15,130,Bunpou_p47-p53_visual.md,79,～といえども,～といえども,この不況下では、たとえ経営の神様といえども、この会社の立て直しは難しいだろう。,この不況下では、たとえ経営の神様といえども、この会社の立て直しは難しいだろう。,corrected,9;10;12;16,keep,
+第8課 - 16,131,Bunpou_p47-p53_visual.md,81,～といえども,～といえども,どんな大芸術家といえども、この有名な絵を買うことはできない。,どんな大富豪といえども、この有名な絵を買うことはできない。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第8課 - 17,132,Bunpou_p47-p53_visual.md,91,～と思いきや,～と思いきや,試験問題は簡単だったので、満点を取れると思いきや、名前を書くのを忘れて0点にされてしまった。,試験問題は簡単だったので、満点を取れたと思いきや、名前を書くのを忘れて0点にされてしまった。,corrected,2;5;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第8課 - 18,133,Bunpou_p47-p53_visual.md,93,～と思いきや,～と思いきや,あの政党は選挙で圧勝したので、長く政権が続くかと思いきや、たちまち支持率が落ち、1年ともたなかった。,あの政党は選挙で圧勝したので、長く政権が続くかと思いきや、たちまち支持率が落ち、1年ともたなかった。,corrected,12;16,keep,
+第8課 - 19,134,Bunpou_p47-p53_visual.md,95,～と思いきや,～と思いきや,やっと道路工事が終わったので、これから静かになるだろうと思いきや、別の工事が始まった。,やっと道路工事が終わったので、これからは静かになるだろうと思いきや、別の工事が始まった。,corrected,2;5;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第9課 - 1,135,Bunpou_p47-p53_visual.md,359,～とあれば,～とあれば,子供のためとあれば、わたしはどんなことでも我慢しますよ。,子供のためとあれば、わたしはどんなことでも我慢しますよ。,corrected,9;10;12;16,keep,
+第9課 - 2,136,Bunpou_p47-p53_visual.md,361,～とあれば,～とあれば,小さい島での一人暮らしとあれば、不自由なことも多いだろう。,小さい島での一人暮らしとあれば、不自由なことも多いだろう。,corrected,9;10;12;16,keep,
+第9課 - 3,137,Bunpou_p47-p53_visual.md,363,～とあれば,～とあれば,入院のためにお金が必要とあれば、なんとしてお金を用意しなければならない。,入院のためにお金が必要だとあれば、なんとかしてお金を用意しなければならない。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第9課 - 4,138,Bunpou_p47-p53_visual.md,373,～たら最後・～たが最後,～たら最後・～たが最後,兄は大酒飲みだから、飲み始めたら最後、酔いつぶれるまで飲んでしまう。,兄は大酒飲みだから、飲み始めたら最後、酔いつぶれるまで飲んでしまう。,corrected,2;5;9;10;12;16;19-opening,keep,
+第9課 - 5,139,Bunpou_p47-p53_visual.md,375,～たら最後・～たが最後,～たら最後・～たが最後,うちの娘はパソコンの前に一度座ったが最後、声をかけても返事もしない。,うちの娘はパソコンの前に座ったが最後、声をかけても返事もしない。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第9課 - 6,140,Bunpou_p47-p53_visual.md,377,～たら最後・～たが最後,～たら最後・～たが最後,彼はお金を持たせたら最後、何に使われるかわからない。,彼にお金を持たせたら最後、何に使われるかわからない。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第9課 - 7,141,Bunpou_p47-p53_visual.md,387,～ようでは,～ようでは,小さな失敗をいちいち気にするようでは、この会社ではやっていけないよ。,小さな失敗をいちいち気にするようでは、この会社ではやっていけないよ。,corrected,2;5;9;10;12;16;19-opening,keep,
+第9課 - 8,142,Bunpou_p47-p53_visual.md,389,～ようでは,～ようでは,ああ、君は忘れっぽくて困る。こんなにすぐ忘れるようでは、この先のことが心配だ。,ああ、僕は忘れっぽくて困る。こんなにすぐ忘れるようでは、この先のことが心配だ。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第9課 - 9,143,Bunpou_p47-p53_visual.md,391,～ようでは,～ようでは,報告書はこんなにごちゃごちゃしているようでは、安心して仕事を任せられない。,報告書にこんなにミスが多いようでは、安心して仕事を任せられない。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第9課 - 10,144,Bunpou_p54-p60_visual.md,18,～なしに(は)・～なしでは・～なくては(は),～なしに(は)・～なしでは・～なくして(は),資金を確保することなしにはどんな計画も実行できない。,資金を確保することなしにはどんな計画も実行できない。,corrected,3;9;10;12;16,keep,
+第9課 - 11,145,Bunpou_p54-p60_visual.md,19,～なしに(は)・～なしでは・～なくては(は),～なしに(は)・～なしでは・～なくして(は),あのころのことは涙なしに語ることはできない。,あのころのことは涙なしに語ることはできない。,corrected,2;3;5;9;10;12;16;19-opening,keep,
+第9課 - 12,146,Bunpou_p54-p60_visual.md,20,～なしに(は)・～なしでは・～なくては(は),～なしに(は)・～なしでは・～なくして(は),祖母はもう高齢で、周りの人の助けなしでは暮らせない。,祖母はもう高齢で、周りの人たちの助けなしでは暮らせない。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第9課 - 13,147,Bunpou_p54-p60_visual.md,21,～なしに(は)・～なしでは・～なくては(は),～なしに(は)・～なしでは・～なくして(は),十分な話し合いなしではダム建設の問題は解決しないだろう。,十分な話し合いなくしてはダム建設の問題は解決しないだろう。,corrected,3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第9課 - 14,148,Bunpou_p54-p60_visual.md,22,～なしに(は)・～なしでは・～なくては(は),～なしに(は)・～なしでは・～なくして(は),先生の御指導なくしてはわたしの大学合格はあり得ませんでした。,先生方のご指導なくしてわたしの大学合格はあり得ませんでした。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第9課 - 15,149,Bunpou_p54-p60_visual.md,34,～くらいなら,～くらいなら,満員のバスに乗るくらいなら、駅まで20分歩くほうがいい。,満員のバスに乗るくらいなら、駅まで20分歩くほうがいい。,corrected,2;5;9;10;12;16;19-opening,keep,
+第9課 - 16,150,Bunpou_p54-p60_visual.md,35,～くらいなら,～くらいなら,その服、捨てるんですか。捨てるくらいなら、わたしにください。,その服、捨てるんですか。捨てるくらいなら、わたしにください。わたしが着ます。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第9課 - 17,151,Bunpou_p54-p60_visual.md,36,～くらいなら,～くらいなら,途中でやめるくらいなら、初めからやらなければいいのに。,途中でやめるくらいなら、初めからやらなければいいのに。,corrected,2;5;9;10;12;16;19-opening,keep,
+第10課 - 1,152,Bunpou_p54-p60_visual.md,198,～(よ)うと(も)・～(よ)うが,～（よ）うと（も）・～（よ）うが,たとえ大地震が起きようと、このビルは安全なはずだ。,たとえ大地震が起ころうと、このビルは安全なはずだ。,corrected,3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第10課 - 2,153,Bunpou_p54-p60_visual.md,199,～(よ)うと(も)・～(よ)うが,～（よ）うと（も）・～（よ）うが,社長は何を言おうが、自分のやり方を押し通した。,社長は何を言われようが、自分のやり方を押し通した。,corrected,3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第10課 - 3,154,Bunpou_p54-p60_visual.md,200,～(よ)うと(も)・～(よ)うが,～（よ）うと（も）・～（よ）うが,目標がどんなに遥かに遠かろうと、僕は夢を捨てないぞ。,目標までどんなに遠かろうと、僕は夢を捨てないぞ。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第10課 - 4,155,Bunpou_p54-p60_visual.md,201,～(よ)うと(も)・～(よ)うが,～（よ）うと（も）・～（よ）うが,いかに困難だろうと、戦争のない世界を目指して闘いたい。,いかに困難だろうと、戦争のない世界を目指して闘いたい。,corrected,2;3;5;9;10;12;16;19-opening,keep,
+第10課 - 5,156,Bunpou_p54-p60_visual.md,202,～(よ)うと(も)・～(よ)うが,～（よ）うと（も）・～（よ）うが,たとえ有名な政治家であろうとも、家庭では普通の親でしかない。,たとえ有名な政治家であろうとも、家庭では普通の親でしかない。,corrected,2;3;5;9;10;12;16;19-opening,keep,
+第10課 - 6,157,Bunpou_p54-p60_visual.md,214,～(よ)うと～まいと・～(よ)うが～まいが,～（よ）うと～まいと・～（よ）うが～まいが,田中先生は生徒が理解しようとしまいと、どんどん難しい話を続けた。,田中先生は、学生たちが理解しようとするまいと、どんどん難しい話を続けた。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第10課 - 7,158,Bunpou_p54-p60_visual.md,215,～(よ)うと～まいと・～(よ)うが～まいが,～（よ）うと～まいと・～（よ）うが～まいが,雨が降ろうが降るまいが、サッカーの練習に休みはない。,雨が降ろうが降るまいが、サッカーの練習に休みはない。,corrected,2;3;5;9;10;12;16;19-opening,keep,
+第10課 - 8,159,Bunpou_p54-p60_visual.md,216,～(よ)うと～まいと・～(よ)うが～まいが,～（よ）うと～まいと・～（よ）うが～まいが,合格の見込みがあろうがあるまいが、今だに猛勉強だ。,合格の見込みがあろうがあるまいが、今はただ頑張るだけだ。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第10課 - 9,160,Bunpou_p54-p60_visual.md,230,～であれ・～であろうと,～であれ・～であろうと,たとえあらしの夜であれ、わたしは仕事のためなら外出する。,たとえあらしの夜であれ、わたしは仕事のためなら外出する。,corrected,2;5;9;10;12;16;19-opening,keep,
+第10課 - 10,161,Bunpou_p54-p60_visual.md,231,～であれ・～であろうと,～であれ・～であろうと,どんな権力者であれ、いつかは命の終わりが来る。,どんな権力者であれ、いつかは命の終わりが来る。,corrected,2;5;9;10;12;16;19-opening,keep,
+第10課 - 11,162,Bunpou_p54-p60_visual.md,232,～であれ・～であろうと,～であれ・～であろうと,理由はなんであれ、無断欠席は許されない。,理由が何であれ、無断欠席は許されない。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第10課 - 12,163,Bunpou_p54-p60_visual.md,233,～であれ・～であろうと,～であれ・～であろうと,君が宴会に居ようと、たとえ火の中、水の中であろうと、僕は平気だ。,君に会うためなら、たとえ火の中、水の中であろうと、僕は平気だ。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第10課 - 13,164,Bunpou_p54-p60_visual.md,249,～たところで,～たところで,今さら悔やんだところで、もう会議は終わっているだろう。,今さら駆けつけたところで、もう会議は終わっているだろう。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第10課 - 14,165,Bunpou_p54-p60_visual.md,250,～たところで,～たところで,どんなに説明したところで、わたしの気持ちはわかってもらえないだろう。,どんなに説明したところで、わたしの気持ちはわかってもらえないだろう。,corrected,9;10;12;16,keep,
+第10課 - 15,166,Bunpou_p54-p60_visual.md,251,～たところで,～たところで,フリーマーケットでは品物が全部売れたところで、もうけはあまりない。,フリーマーケットでは品物が全部売れたところで、もうけはあまりない。,corrected,9;10;12;16,keep,
+第10課 - 16,167,Bunpou_p54-p60_visual.md,252,～たところで,～たところで,いくら謝ったところで、彼女との関係は元には戻らないと思う。,いくら謝ったところで、彼女との関係は元には戻らないと思う。,corrected,9;10;12;16,keep,
+第10課 - 17,168,Bunpou_p54-p60_visual.md,264,～ば～で・～なら～で・～たら～たで,～ば～で・～なら～で・～たら～たで,家は広いほうがいいが、広ければ広いで、掃除が大変だろう。,家は広い方がいいが、広ければ広いで、掃除が大変だろう。,corrected,2;5;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第10課 - 18,169,Bunpou_p54-p60_visual.md,265,～ば～で・～なら～で・～たら～たで,～ば～で・～なら～で・～たら～たで,退職前は毎日忙しくて大変だったが、暇になってみると、暇なら暇で悩みが出てくるものだ。,退職前は毎日忙しくて大変でしたが、暇になってみると、暇なら暇で悩みも出てくるものです。,corrected,2;5;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第10課 - 19,170,Bunpou_p54-p60_visual.md,266,～ば～で・～なら～で・～たら～たで,～ば～で・～なら～で・～たら～たで,食材がなかったらなかったで、簡単な料理で済ませましょう。,食材がなかったらなかったで、簡単な料理で済ませましょう。,corrected,2;5;12;16;19-opening,keep,
+第10課 - 20,171,Bunpou_p54-p60_visual.md,267,～ば～で・～なら～で・～たら～たで,～ば～で・～なら～で・～たら～たで,引っ越しの前も大変だったが、引っ越したら引っ越したで、またやらなければならないことがたくさんある。,引っ越しの前も大変だったが、引っ越したら引っ越したで、またやらなければならないことがたくさんある。,corrected,2;5;12;16;19-opening,keep,
+第11課 - 1,172,Bunpou_p61-p68_visual.md,18,～べく,～べく,彼はサッカー選手になるべし、毎日厳しい練習をしている。,彼はサッカー選手になるべく、毎日厳しい練習をしている。,corrected,5;9;10;12;16,review_or_rerecord,translation and generated analysis require review
+第11課 - 2,173,Bunpou_p61-p68_visual.md,19,～べく,～べく,新型の機械を購入するべし、社長はいろいろ調べている。,新型の機械を購入するべく、社長はいろいろ調べている。,corrected,5;9;10;12;16,review_or_rerecord,translation and generated analysis require review
+第11課 - 3,174,Bunpou_p61-p68_visual.md,20,～べく,～べく,介護ロボットを開発するべし、わたしたちは今日も実験を続ける。,介護ロボットを開発すべく、わたしたちは今日も実験を続ける。,corrected,5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第11課 - 4,175,Bunpou_p61-p68_visual.md,30,～んがために(に),～んがため(に),彼女は歌手になりたいという夢を実現させんがため、上京した。,彼女は歌手になりたいという夢を実現させんがため、上京した。,corrected,2;3;5;9;10;12;16;19-opening,keep,
+第11課 - 5,176,Bunpou_p61-p68_visual.md,31,～んがために(に),～んがため(に),ライオンがしまうま食べるのは残虐に見えるが、ライオンは生きんがために、そうするのである。,ライオンがしまうまを食べるのは残酷に見えるが、ライオンは生きんがために、そうするのである。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第11課 - 6,177,Bunpou_p61-p68_visual.md,32,～んがために(に),～んがため(に),自分の利益を得んがための発言では、人の心を動かせない。,自分の利益を得んがための発言では、人の心を動かせない。,corrected,2;3;5;9;10;12;16;19-opening,keep,
+第11課 - 7,178,Bunpou_p61-p68_visual.md,42,～をもって,～をもって,本日の採用試験の結果をもってご連絡いたします。,本日の採用試験の結果は後日書面をもってご連絡いたします。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第11課 - 8,179,Bunpou_p61-p68_visual.md,43,～をもって,～をもって,何をもって人の価値を評価することも難しい問題だ。,何をもって人の価値を評価するかは難しい問題だ。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第11課 - 9,180,Bunpou_p61-p68_visual.md,44,～をもって,～をもって,最新の医療技術をもってすれば、人はさらに寿命を延ばせるだろう。,最新の医療技術をもってすれば、人はさらに寿命を延ばせるだろう。,corrected,2;5;9;10;12;16;19-opening,keep,
+第12課 - 1,181,Bunpou_p61-p68_visual.md,130,～ばこそ,～ばこそ,心身健康であればこそ、大きな仕事に挑戦できるのだ。まずは健康に注意しなさい。,心身健康であればこそ、大きな仕事に挑戦できるのだ。まずは健康に注意しなさい。,corrected,9;10;12;16,keep,
+第12課 - 2,182,Bunpou_p61-p68_visual.md,131,～ばこそ,～ばこそ,愛していればこそ、別れるのです。わたしの気持ち、わかってください。,愛していればこそ、別れるのです。わたしの気持ち、わかってください。,corrected,9;10;12;16,keep,
+第12課 - 3,183,Bunpou_p61-p68_visual.md,132,～ばこそ,～ばこそ,苦しければこそ、後で本当の喜びがある。,今苦しければこそ、後で本当の喜びがある。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第12課 - 4,184,Bunpou_p61-p68_visual.md,142,～とあって,～とあって,久しぶりの快晴の連休とあって、行楽地はどこも人でいっぱいだった。,久しぶりの快晴の連休とあって、行楽地はどこも人でいっぱいだった。,corrected,2;5;9;10;12;16;19-opening,keep,
+第12課 - 5,185,Bunpou_p61-p68_visual.md,143,～とあって,～とあって,その女優は初めて映画の主役を務めるとあって、とても緊張している様子だ。,その女優は初めて映画の主役を務めるとあって、とても緊張している様子だ。,corrected,9;10;12;16,keep,
+第12課 - 6,186,Bunpou_p61-p68_visual.md,144,～とあって,～とあって,新聞で芸術家の絵の展覧会が報道されたとあって、この店に来る客はみんな店に飾られた絵を眺めていく。,新聞で店主の絵のことが報道されたとあって、この店に来る客はみんな店に飾られた絵を眺めていく。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第12課 - 7,187,Bunpou_p61-p68_visual.md,156,～ではあるまいし,～ではあるまいし,子供ではあるまいし、眠かったり空腹だったりするだけでそんなに不機嫌な顔をするものではない。,子供ではあるまいし、眠かったり空腹だったりするだけでそんなに不機嫌な顔をするものではない。,corrected,2;5;9;10;12;16;19-opening,keep,
+第12課 - 8,188,Bunpou_p61-p68_visual.md,157,～ではあるまいし,～ではあるまいし,犬や猫じゃあるまいし、上の人の言葉に従うだけなんてごめんだ。,犬や猫じゃあるまいし、上の人の言葉に従うだけなんてごめんだ。,corrected,2;5;9;10;12;16;19-opening,keep,
+第12課 - 9,189,Bunpou_p61-p68_visual.md,158,～ではあるまいし,～ではあるまいし,面接試験は初めてではあるまいし、どうして今回はそんなに緊張するの?,面接試験は初めてではあるまいし、今回はどうしてそんなに緊張するの？,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第12課 - 10,190,Bunpou_p61-p68_visual.md,159,～ではあるまいし,～ではあるまいし,あなたが悪かったのではあるまいし、どうしてそんなに自分を責めることはないよ。,あなたが悪かったわけではあるまいし、そんなに自分を責めることはないよ。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第12課 - 11,191,Bunpou_p61-p68_visual.md,169,～手前,～手前,5月末までに問題を解決すると約束した手前、どうしても頑張らなければならない。,5月末までに問題を解決すると約束した手前、どうしても頑張らなければならない。,corrected,9;10;12;16,keep,
+第12課 - 12,192,Bunpou_p61-p68_visual.md,170,～手前,～手前,いつも手伝っているという手前、今回はこちらから手伝いを申し出なければ……。,いつも手伝ってもらっている手前、今回はこちらから手伝いを申し出なければ……。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第12課 - 13,193,Bunpou_p61-p68_visual.md,171,～手前,～手前,子供たちの手前、父親がこんな酔っ払った姿で帰宅しては体裁が悪い。,子供たちの手前、父親がこんな酔っ払った姿で帰宅しては体裁が悪い。,corrected,9;10;12;16,keep,
+第12課 - 14,194,Bunpou_p61-p68_visual.md,172,～手前,～手前,ご近所の手前、家に警察が来たことは知られたくない。,ご近所の手前、家に警察官が来たことは知られたくない。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第12課 - 15,195,Bunpou_p61-p68_visual.md,182,～ゆえ(に),～ゆえ(に),慣れないことゆえ、数々の不手際、どうぞお許しください。,慣れないことゆえ、数々の不手際、どうぞお許しください。,corrected,9;10;12;16,keep,
+第12課 - 16,196,Bunpou_p61-p68_visual.md,183,～ゆえ(に),～ゆえ(に),理想ばかり追い求めたゆえ、現実が伴わないと思われたかもしれない。,理想ばかり申し上げたゆえ、実践が伴わないと思われたかもしれません。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第12課 - 17,197,Bunpou_p61-p68_visual.md,184,～ゆえ(に),～ゆえ(に),国民の信頼が得られなかったゆえに、新しい政策は再検討しなければならなくなった。,国民の信頼が得られなかったゆえに、新しい政策は再検討しなければならなくなった。,corrected,9;10;12;16,keep,
+第13課 - 1,198,Bunpou_p69-p74_visual.md,19,～にかたくない,～にかたくない,でき上がった作品を見れば、彼のこれまでの努力は想像にかたくない。,でき上がった作品を見れば、彼のこれまでの努力は想像にかたくない。,corrected,2;5;9;10;12;16;19-opening,keep,
+第13課 - 2,199,Bunpou_p69-p74_visual.md,20,～にかたくない,～にかたくない,愛する人を失った彼女の悲しみは察するにかたくない。,愛する人を失った彼女の悲しみは察するにかたくない。,corrected,2;5;9;10;12;16;19-opening,keep,
+第13課 - 3,200,Bunpou_p69-p74_visual.md,21,～にかたくない,～にかたくない,諸事情を考えると、今回の決断に至った社長の心情も理解するにかたくない。,諸事情を考えると、今回の決断に至った社長の心情も理解するにかたくない。,corrected,2;5;9;10;12;16;19-opening,keep,
+第13課 - 4,201,Bunpou_p69-p74_visual.md,31,～に～ない・～(よ)うにも～ない,～に～ない・～（よ）うにも～ない,野菜をたくさんもらったが、食べきれない。捨てるにも捨てられず困っている。,野菜をたくさんもらったが、食べきれない。捨てるに捨てられず困っている。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第13課 - 5,202,Bunpou_p69-p74_visual.md,32,～に～ない・～(よ)うにも～ない,～に～ない・～（よ）うにも～ない,子供に大切な書類を汚されて、泣くにも泣けない心境だ。,子供に大切な書類を汚されて、泣くに泣けない心境だ。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第13課 - 6,203,Bunpou_p69-p74_visual.md,33,～に～ない・～(よ)うにも～ない,～に～ない・～（よ）うにも～ない,彼女はあいさつせずに会社を辞めた。何を言おうにも言えない事情があったのだろうか。,彼女はあいさつもせずに会社を辞めた。何か言うに言えない事情があったのだろうか。,corrected,2;3;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第13課 - 7,204,Bunpou_p69-p74_visual.md,34,～に～ない・～(よ)うにも～ない,～に～ない・～（よ）うにも～ない,連絡先がわからなくて、連絡しようにも連絡できなかった。,連絡先がわからなくて、連絡しようにも連絡できなかった。,corrected,2;3;5;9;10;12;16;19-opening,keep,
+第13課 - 8,205,Bunpou_p69-p74_visual.md,35,～に～ない・～(よ)うにも～ない,～に～ない・～（よ）うにも～ない,当時、子供がおもちゃを欲しがったが、お金がなくて買ってやろうにも買ってやれなかった。,当時、子供がおもちゃを欲しがったが、お金がなくて買ってやろうにも買ってやれなかった。,corrected,2;3;5;9;10;12;16;19-opening,keep,
+第13課 - 9,206,Bunpou_p69-p74_visual.md,45,～て(は)いられない,～て(は)いられない,やると決めたら、のんびりしてはいられない。今すぐ準備を始めよう。,やると決めたら、のんびりしてはいられない。今すぐ準備を始めよう。,corrected,2;5;9;10;12;19-opening,keep,
+第13課 - 10,207,Bunpou_p69-p74_visual.md,46,～て(は)いられない,～て(は)いられない,あれだけひどいことを言われて、わたしも黙ってはいられなかった。,あれだけひどいことを言われて、わたしも黙っていられなかった。,corrected,2;5;9;10;12;19-opening,review_or_rerecord,translation and generated analysis require review
+第13課 - 11,208,Bunpou_p69-p74_visual.md,47,～て(は)いられない,～て(は)いられない,愚痴を言ったり泣いたりしてはいられない。解決策を考えなくては。,愚痴を言ったり泣いたりしてはいられない。解決策を考えなくては。,corrected,2;5;9;10;12;19-opening,keep,
+第13課 - 12,209,Bunpou_p69-p74_visual.md,59,～べくもない,～べくもない,その絵が偽物であることなど、素人のわたしは知るべくもなかった。,その絵が偽物であることなど、素人のわたしは知るべくもなかった。,corrected,2;5;9;10;12;16;19-opening,keep,
+第13課 - 13,210,Bunpou_p69-p74_visual.md,60,～べくもない,～べくもない,状況から見て、この男が犯人であることは否定すべくもない事実であろう。,状況から見て、この男が犯人であることは否定すべくもない事実であろう。,corrected,2;5;9;10;12;16;19-opening,keep,
+第13課 - 14,211,Bunpou_p69-p74_visual.md,61,～べくもない,～べくもない,経験30年のベテランに、初心者のわたしがかなうべくもない。,将棋棋歴30年のベテランに、初心者のわたしがかなうべくもない。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第13課 - 15,212,Bunpou_p69-p74_visual.md,73,～べからず・～べからざる,～べからず・～べからざる,【工事現場の張り紙】危険。立ち入るべからず。,【工事現場の張り紙】危険。立ち入るべからず。,corrected,2;5;9;10;12;16;19-opening,keep,
+第13課 - 16,213,Bunpou_p69-p74_visual.md,74,～べからず・～べからざる,～べからず・～べからざる,「ここで釣りをするべからず」という立札が立っているのに、何人か釣りをする人がいる。,「ここで釣りをするべからず」という立て札が立っているのに、何人か釣りをしている人がいる。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第13課 - 17,214,Bunpou_p69-p74_visual.md,75,～べからず・～べからざる,～べからず・～べからざる,警察が今回のような事件を起こしたことは、市民にとって許すべからざることである。,警察が今回このような事件を起こしたことは、市民にとって許すべからざることである。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第13課 - 18,215,Bunpou_p69-p74_visual.md,76,～べからず・～べからざる,～べからず・～べからざる,経営者にとって決断力は欠くべからざるものである。,経営者にとって決断力は欠くべからざるものである。,corrected,9;10;12;16,keep,
+第13課 - 19,216,Bunpou_p69-p74_visual.md,86,～まじき,～まじき,その大臣は政治家としてあるまじき発言で、辞任に追い込まれた。,その大臣は政治家にあるまじき発言で、辞任に追い込まれた。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第13課 - 20,217,Bunpou_p69-p74_visual.md,87,～まじき,～まじき,これは、子を持つ親として許すまじき犯罪である。,これは、子を持つ親として許すまじき犯罪である。,corrected,9;10;12;16,keep,
+第13課 - 21,218,Bunpou_p69-p74_visual.md,88,～まじき,～まじき,大切な人には悲しい思いをさせるまじきことを言ってしまった。,大切な人にわたしは言うまじきことを言ってしまった。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第14課 - 1,219,Bunpou_p69-p74_visual.md,233,～ときたら,～ときたら,最近の若者ときたら、言葉の使い方を知らない。,最近の若い人ときたら、言葉の使い方を知らない。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第14課 - 2,220,Bunpou_p69-p74_visual.md,234,～ときたら,～ときたら,うちの父ときたら、何でも母にやってもらっていて、だらしがない。,うちの父ときたら、何でも母にやってもらっていて、だらしがない。,corrected,9;10;12;16,keep,
+第14課 - 3,221,Bunpou_p69-p74_visual.md,235,～ときたら,～ときたら,隣のうちの犬ときたら、いつもほえてばかりで、うるさくてしかたがない。,隣のうちの犬ときたら、いつもほえてばかりで、うるさくてしかたがない。,corrected,9;10;12;16,keep,
+第14課 - 4,222,Bunpou_p69-p74_visual.md,236,～ときたら,～ときたら,あの店の料理ときたら、高いだけで全然おいしくない。,あの店の料理ときたら、高いだけで全然おいしくない。,corrected,9;10;12;16,keep,
+第14課 - 5,223,Bunpou_p69-p74_visual.md,246,～ともなると・～ともなれば,～ともなると・～ともなれば,子供も小さいときは素直だが、中学生ともなると、親の言うことを聞かなくなる。,子供も小さいときは素直だが、中学生ともなると、親の言うことを聞かなくなる。,corrected,9;10;12;16,keep,
+第14課 - 6,224,Bunpou_p69-p74_visual.md,247,～ともなると・～ともなれば,～ともなると・～ともなれば,新入社員のころは自分のことで精いっぱいだったが、部長ともなると、部下を育てることを考えなければならない。,新入社員のころは自分のことだけで精いっぱいだったが、部長ともなると、部下を育てることを考えなければならない。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第14課 - 7,225,Bunpou_p69-p74_visual.md,248,～ともなると・～ともなれば,～ともなると・～ともなれば,人間50歳ともなれば、親の介護や自分の老後のことを考え始める。,人間50歳ともなれば、親の介護や自分の老後のことを考え始める。,corrected,9;10;12;16,keep,
+第14課 - 8,226,Bunpou_p69-p74_visual.md,249,～ともなると・～ともなれば,～ともなると・～ともなれば,普段は静かなこの町も、祭りともなれば、多くの観光客でにぎわう。,普段は静かなこの町も、祭りともなれば、多くの観光客でにぎわう。,corrected,9;10;12;16,keep,
+第14課 - 9,227,Bunpou_p69-p74_visual.md,261,～ともあろう,～ともあろう,国会議員ともあろう人が、差別的な発言をするなんて信じられない。,国会議員ともあろう人が、差別的な発言をするなんて信じられない。,corrected,2;5;9;10;12;16;19-opening,keep,
+第14課 - 10,228,Bunpou_p69-p74_visual.md,262,～ともあろう,～ともあろう,大学の学長ともあろう方が、そのような無責任なことを言ってどうするんですか。,大学の学長ともあろうお方が、そのような無責任なことを言ってどうするんですか。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第14課 - 11,229,Bunpou_p69-p74_visual.md,263,～ともあろう,～ともあろう,山田さんともあろう人が、こんな単純なミスをするなんて。どうしたのでしょう。,山田さんともあろう人が、こんな単純なミスをするなんて。どうしたのでしょう。,corrected,2;5;9;10;12;16;19-opening,keep,
+第14課 - 12,230,Bunpou_p69-p74_visual.md,264,～ともあろう,～ともあろう,学会の会長ともあろう人は、最新の研究テーマについてしっかり把握しておくべきだ。,学会の会長ともあろう人は、最新の研究テーマについてしっかり把握しておくべきだ。,corrected,2;5;9;10;12;16;19-opening,keep,
+第14課 - 13,231,Bunpou_p69-p74_visual.md,274,～たるもの(は),～たるもの(は),経営者たるものは、一般的な法律や年金制度について知っておかなければならない。,経営者たるものは、一般的な法律や年金制度について知っておかなければならない。,corrected,9;10;12;16,keep,
+第14課 - 14,232,Bunpou_p69-p74_visual.md,275,～たるもの(は),～たるもの(は),社会人たるもの、あいさつや時間を守ることなど、できて当然だろう。,社会人たるもの、あいさつや時間を守ることなど、できて当然だろう。,corrected,9;10;12;16,keep,
+第14課 - 15,233,Bunpou_p69-p74_visual.md,276,～たるもの(は),～たるもの(は),紳士たるもの、強く優しくなければならない。,紳士たるもの、強く優しくなければならない。,corrected,9;10;12;16,keep,
+第14課 - 16,234,Bunpou_p69-p74_visual.md,286,～なりに,～なりに,あの子も子供なりに親のことを心配して気を遣っているのだ。,あの子も子供なりに親のことを心配して気を遣っているのだ。,corrected,9;10;12;16,keep,
+第14課 - 17,235,Bunpou_p69-p74_visual.md,287,～なりに,～なりに,彼は経営を立て直そうとした努力は努力なりには成功したが、不運が重なりうまくいかなかった。,店の経営を立て直そうとわたしなりに努力はしたが、不運が重なりうまくいかなかった。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第14課 - 18,236,Bunpou_p69-p74_visual.md,288,～なりに,～なりに,彼も経験が浅いなりに一生懸命仕事をしている。,彼は経験が浅いなりに一生懸命仕事をしている。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第14課 - 19,237,Bunpou_p69-p74_visual.md,289,～なりに,～なりに,字は下手でも、下手なりに丁重に書けば、読者には気持ちが伝わる。,字は下手でも、下手なりに丁寧に書けば、読む人に気持ちが伝わるものだ。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第14課 - 20,238,Bunpou_p69-p74_visual.md,290,～なりに,～なりに,少し傷があっても、この作家の作った皿なりの価値は十分ある。,少し傷があっても、この作家の作った皿ならそれなりの価値は十分ある。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第15課 - 1,239,Bunpou_p75-p89_visual.md,129,～にひきかえ,～にひきかえ,姉がきれい好きなのにひきかえ、妹はいつも部屋を散らかしている。困ったものだ。,姉がきれい好きなのにひきかえ、妹はいつも部屋を散らかしている。困ったものだ。,corrected,2;5;9;10;12;16;19-opening,keep,
+第15課 - 2,240,Bunpou_p75-p89_visual.md,130,～にひきかえ,～にひきかえ,前日までのひどい天気にひきかえ、運動会の当日は気持ちよく晴れて良かった。,前日までのひどい天気にひきかえ、運動会の当日は気持ちよく晴れて良かった。,corrected,2;5;9;10;12;16;19-opening,keep,
+第15課 - 3,241,Bunpou_p75-p89_visual.md,131,～にひきかえ,～にひきかえ,田中さんの住んでいるマンションは新しくて広い。それにひきかえ、わたしのところは古くて狭いし、駅からも遠い。,田中さんの住んでいるマンションは新しくて広い。それにひきかえ、わたしのところは古くて狭いし、駅からも遠い。,corrected,2;5;9;10;12;16;19-opening,keep,
+第15課 - 4,242,Bunpou_p75-p89_visual.md,141,～にもまして,～にもまして,去年は猛暑で連日気温が33度を超えたが、今年は去年にもまして暑さが厳しい。,去年は猛暑で連日気温が33度を超えたが、今年は去年にもまして暑さが厳しい。,corrected,2;5;9;10;12;16;19-opening,keep,
+第15課 - 5,243,Bunpou_p75-p89_visual.md,142,～にもまして,～にもまして,自分の仕事のことにもまして気になるのは、父の病気のことだ。,自分の仕事のことにもまして気になるのは、父の病気のことだ。,corrected,2;5;9;10;12;16;19-opening,keep,
+第15課 - 6,244,Bunpou_p75-p89_visual.md,143,～にもまして,～にもまして,もともと覚えるのは得意ではなかったが、最近は以前にもまして物忘れが悪くなった。,もともと覚えるのは得意ではなかったが、最近は以前にもまして物覚えが悪くなった。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第15課 - 7,245,Bunpou_p75-p89_visual.md,144,～にもまして,～にもまして,結婚式の日の彼女は、いつにもまして美しかった。,結婚式の日の彼女は、いつにもまして美しかった。,corrected,2;5;9;10;12;16;19-opening,keep,
+第15課 - 8,246,Bunpou_p75-p89_visual.md,156,～ないまでも,～ないまでも,プロにはなれないまでも、演劇はずっと続けていくつもりだ。,プロにはなれないまでも、演劇はずっと続けていくつもりだ。,corrected,2;5;9;10;12;16;19-opening,keep,
+第15課 - 9,247,Bunpou_p75-p89_visual.md,157,～ないまでも,～ないまでも,わたしたち夫婦は海外旅行などのぜいたくはできないまでも、不自由のない暮らしをしています。,わたしたち夫婦は海外旅行などのぜいたくはできないまでも、不自由のない暮らしをしています。,corrected,2;5;9;10;12;16;19-opening,keep,
+第15課 - 10,248,Bunpou_p75-p89_visual.md,158,～ないまでも,～ないまでも,明日はハイキングだ。快晴とはいかないまでも、雨は降らないでほしい。,あしたはハイキングだ。快晴とはいかないまでも、雨は降らないでほしい。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第15課 - 11,249,Bunpou_p75-p89_visual.md,159,～ないまでも,～ないまでも,海遊とは言わないまでも、せめて月に1回は外食したい。,毎週とは言わないまでも、せめて月に1回は外食したい。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第16課 - 1,250,Bunpou_p75-p89_visual.md,255,～に至って・～に至っても,～に至って・～に至っても,死者が出るに至って、国は初めて病気の感染拡大の深刻さに気がついたのだ。,死者が出るに至って、国は初めて病気の感染拡大の深刻さに気がついたのだ。,corrected,2;5;9;10;12;16;19-opening,keep,
+第16課 - 2,251,Bunpou_p75-p89_visual.md,256,～に至って・～に至っても,～に至って・～に至っても,病気の牛20万頭が処分されるに至って、経済的混乱がマスコミに取り上げられるようになった。,病気の牛20万頭が処分されるに至って、経済的混乱がマスコミに取り上げられるようになった。,corrected,2;5;9;10;12;16;19-opening,keep,
+第16課 - 3,252,Bunpou_p75-p89_visual.md,257,～に至って・～に至っても,～に至って・～に至っても,ひどい症状が出るに至っても、彼は病院へ行こうとしなかった。,ひどい症状が出るに至っても、彼は病院へ行こうとしなかった。,corrected,2;5;9;10;12;16;19-opening,keep,
+第16課 - 4,253,Bunpou_p75-p89_visual.md,258,～に至って・～に至っても,～に至って・～に至っても,大切な情報がインターネットで流れるという事態に至っても、ことの重大さを認識できない人たちがいる。,大切な情報がインターネットで流れるという事態に至っても、ことの重大さを認識できない人たちがいる。,corrected,2;5;9;10;12;16;19-opening,keep,
+第16課 - 5,254,Bunpou_p75-p89_visual.md,268,～に至っては,～に至っては,デパートの閉店が相次いでいる。Aデパートに至ってはすでに三つの支店が閉店した。,デパートの閉店が相次いでいる。Aデパートに至ってはすでに三つの支店が閉店した。,corrected,2;5;9;10;12;16;19-opening,keep,
+第16課 - 6,255,Bunpou_p75-p89_visual.md,269,～に至っては,～に至っては,毎年この地方は洪水の被害を受ける。某県に至っては今年もう3回目だ。,毎年この地方は洪水の被害を受ける。長崎県に至っては今年もう3回目だ。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第16課 - 7,256,Bunpou_p75-p89_visual.md,270,～に至っては,～に至っては,わたしは理数系の科目が得意だったが、物理に至っては全く理解できなかった。,わたしは理数系の科目が不得意だった。物理に至っては全く理解できなかった。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第16課 - 8,257,Bunpou_p75-p89_visual.md,282,～始末だ,～始末だ,おいは遊んでばかりでまじめに働きもせず、とうとう会社を辞めてしまう始末だ。,おいは遊んでばかりいてまじめに働きもせず、とうとう会社を辞めてしまう始末だ。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第16課 - 9,258,Bunpou_p75-p89_visual.md,283,～始末だ,～始末だ,田中さんはお酒を飲んで大声でしゃべり続けた後で、ついに泣き出す始末だ。,田中さんはお酒を飲んで大きな声でしゃべり続けた後で、ついに泣き出す始末だった。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第16課 - 10,259,Bunpou_p75-p89_visual.md,284,～始末だ,～始末だ,兄は借金を返すため、とうとう家にあるものをお金に換えて、父の時計まで売ってしまう始末だ。,兄は借金を返すためと言って家にあるものをお金に換え、父の時計まで売ってしまう始末だ。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第16課 - 11,260,Bunpou_p75-p89_visual.md,294,～っぱなしだ,～っぱなしだ,昨日は電気をつけっぱなしで寝てしまった。,昨日は電気をつけっぱなしで寝てしまった。,corrected,2;5;9;10;12;19-opening,keep,
+第16課 - 12,261,Bunpou_p75-p89_visual.md,295,～っぱなしだ,～っぱなしだ,友達は半年も本を借りっぱなしになっている。,友達に半年も本を借りっぱなしになっている。,corrected,2;5;9;10;12;19-opening,review_or_rerecord,translation and generated analysis require review
+第16課 - 13,262,Bunpou_p75-p89_visual.md,296,～っぱなしだ,～っぱなしだ,一日立ちっぱなしの仕事なので、足が疲れる。,一日立ちっぱなしの仕事なので、足が疲れる。,corrected,2;5;9;10;12;19-opening,keep,
+第16課 - 14,263,Bunpou_p75-p89_visual.md,297,～っぱなしだ,～っぱなしだ,相手も悪いのに、わたしだけ言われっぱなしで何も言い返せなかった。,相手も悪いのに、わたしだけ言われっぱなしで何も言い返せなかった。,corrected,2;5;9;10;12;19-opening,keep,
+第17課 - 1,264,Bunpou_p75-p89_visual.md,485,～たりとも…ない,～たりとも…ない,あなたのことは1日たりとも忘れたことはありません。,あなたのことは1日たりとも忘れたことはありません。,corrected,2;5;9;10;12;16;19-opening,keep,
+第17課 - 2,265,Bunpou_p75-p89_visual.md,486,～たりとも…ない,～たりとも…ない,試合中は一瞬たりとも気を抜いてはいけない。,試合中は一瞬たりとも気を抜いてはいけない。,corrected,2;5;9;10;12;16;19-opening,keep,
+第17課 - 3,266,Bunpou_p75-p89_visual.md,487,～たりとも…ない,～たりとも…ない,この部分の設計は1ミリたりとも間違いがないようにお願いします。,この部分の設計は1ミリたりとも間違いがないようにお願いします。,corrected,9;10;12;16,keep,
+第17課 - 4,267,Bunpou_p75-p89_visual.md,488,～たりとも…ない,～たりとも…ない,婦人たりともこの神聖な場所に立ち入ることは許されていない。,何人たりともこの神聖な場所に立ち入ることは許されていない。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第17課 - 5,268,Bunpou_p75-p89_visual.md,498,～すら,～すら,彼のうそには、怒りだけではなく悲しみすら覚えた。,彼のうそには、怒りだけではなく悲しみすら覚えた。,corrected,9;10;12;16,keep,
+第17課 - 6,269,Bunpou_p75-p89_visual.md,499,～すら,～すら,バスは雨の日などにはたびたび遅れる。30分すら待たされることもある。,バスは雨の日などにはたびたび遅れる。30分も待たされることすらある。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第17課 - 7,270,Bunpou_p75-p89_visual.md,500,～すら,～すら,自分が好きな選んだ仕事にすら自信が持てなくなってしまった。,自分が好きで選んだ仕事にすら自信が持てなくなってしまった。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第17課 - 8,271,Bunpou_p75-p89_visual.md,501,～すら,～すら,これは専門家すら直すのが難しい故障だ。素人のわたしには全く手がつけられない。,これは専門家ですら直すのが難しい故障だ。素人のわたしには全く手がつけられない。,corrected,5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第17課 - 9,272,Bunpou_p75-p89_visual.md,511,～だに,～だに,その病気が広まって100万人もの人が死ぬなど、想像だに恐ろしい。,その病気が広まって100万人もの人が死ぬなど、想像するだに恐ろしい。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第17課 - 10,273,Bunpou_p75-p89_visual.md,512,～だに,～だに,まさかわたしが歌手としてステージに立つなんて、夢だに思わなかった。,まさかわたしが歌手としてステージに立つなんて、夢にだに思わなかった。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第17課 - 11,274,Bunpou_p75-p89_visual.md,513,～だに,～だに,そのニュースを聞いても、彼女は表情を変えず、動揺だにしなかった。,そのニュースを聞いても、彼女は表情を変えず、微動だにしなかった。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第17課 - 12,275,Bunpou_p75-p89_visual.md,525,～にして,～にして,結婚してすぐ子供に恵まれなかったが、8年目にしてようやく授かった。,結婚してすぐに子供が欲しかったが、8年目にしてようやく授かった。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第17課 - 13,276,Bunpou_p75-p89_visual.md,526,～にして,～にして,プロの職人にして失敗をするのだから、君がうまくいかなくてもしかたがないだろう。,プロの職人にして失敗をするのだ。君がうまくいかなくてもしょうがないだろう。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第17課 - 14,277,Bunpou_p75-p89_visual.md,527,～にして,～にして,この曲はベートーベンのような大天才にして初めて作れる作品だ。,この曲はベートーベンのような天才にしてはじめて書ける作品だ。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第17課 - 15,278,Bunpou_p75-p89_visual.md,528,～にして,～にして,やれやれ、この父にしてこの子ありだ。二人ともとてもよく食べる。,やれやれ、この父にしてこの息子あり。二人ともとてもよく食べる。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第17課 - 16,279,Bunpou_p75-p89_visual.md,538,～あっての,～あっての,結婚は、相手あってのことだから、相手がいなければどうしようもない。,結婚は、相手あってのことだから、相手がいなければどうしようもない。,corrected,2;5;9;10;12;16;19-opening,keep,
+第17課 - 17,280,Bunpou_p75-p89_visual.md,539,～あっての,～あっての,海あっての漁業なのだから、海を汚してはいけない。,海あっての漁業なのだから、海を汚してはいけない。,corrected,2;5;9;10;12;16;19-opening,keep,
+第17課 - 18,281,Bunpou_p75-p89_visual.md,540,～あっての,～あっての,読者あっての雑誌なので、読者が読みたいと思うものを提供したい。,読者あっての雑誌なので、読者が読みたいと思うものを提供したい。,corrected,2;5;9;10;12;16;19-opening,keep,
+第17課 - 19,282,Bunpou_p75-p89_visual.md,550,～からある・～からする・～からの,～からある・～からする・～からの,2トンからあるこの岩を、昔の人はどうやって運んだんだろう。,2トンからあるこの岩を、昔の人はどうやって運んだんだろう。,corrected,9;10;12;16,keep,
+第17課 - 20,283,Bunpou_p75-p89_visual.md,551,～からある・～からする・～からの,～からある・～からする・～からの,彼女は10万円からする服を、値段を見ないで買った。,彼女は10万円からする服を、値段も見ないで何着も買った。,corrected,2;5;9;10;12;16;19-opening,review_or_rerecord,translation and generated analysis require review
+第17課 - 21,284,Bunpou_p75-p89_visual.md,552,～からある・～からする・～からの,～からある・～からする・～からの,そのデモには10万人からの人々が参加したそうだ。,そのデモには10万人からの人々が参加したそうだ。,corrected,9;10;12;16,keep,
+第18課 - 1,285,,,～までもない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 2,286,,,～までもない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 3,287,,,～までもない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 4,288,,,～までもない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 5,289,,,～までだ・～までのことだ,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 6,290,,,～までだ・～までのことだ,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 7,291,,,～までだ・～までのことだ,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 8,292,,,～までだ・～までのことだ,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 9,293,,,～までだ・～までのことだ,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 10,294,,,～までだ・～までのことだ,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 11,295,,,～ばそれまでだ,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 12,296,,,～ばそれまでだ,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 13,297,,,～ばそれまでだ,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 14,298,,,～ばそれまでだ,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 15,299,,,～に当たらない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 16,300,,,～に当たらない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 17,301,,,～に当たらない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 18,302,,,～に当たらない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 19,303,,,～でなくてなんだろう(か),,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 20,304,,,～でなくてなんだろう(か),,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第18課 - 21,305,,,～でなくてなんだろう(か),,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 1,306,,,～に足る,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 2,307,,,～に足る,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 3,308,,,～に足る,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 4,309,,,～に堪える／～に堪えない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 5,310,,,～に堪える／～に堪えない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 6,311,,,～に堪える／～に堪えない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 7,312,,,～に堪える／～に堪えない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 8,313,,,～といったらない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 9,314,,,～といったらない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 10,315,,,～といったらない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 11,316,,,～かぎりだ,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 12,317,,,～かぎりだ,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 13,318,,,～かぎりだ,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 14,319,,,～極まる・～極まりない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 15,320,,,～極まる・～極まりない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 16,321,,,～極まる・～極まりない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 17,322,,,～極まる・～極まりない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 18,323,,,～極まる・～極まりない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 19,324,,,～とは,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 20,325,,,～とは,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第19課 - 21,326,,,～とは,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 1,327,,,～てやまない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 2,328,,,～てやまない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 3,329,,,～てやまない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 4,330,,,～に堪えない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 5,331,,,～に堪えない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 6,332,,,～に堪えない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 7,333,,,～ないではすまない・～ずにすまない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 8,334,,,～ないではすまない・～ずにすまない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 9,335,,,～ないではすまない・～ずにすまない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 10,336,,,～ないではすまない・～ずにすまない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 11,337,,,～ないではおかない・～ずにはおかない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 12,338,,,～ないではおかない・～ずにはおかない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 13,339,,,～ないではおかない・～ずにはおかない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 14,340,,,～ないではおかない・～ずにはおかない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 15,341,,,～を禁じ得ない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 16,342,,,～を禁じ得ない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 17,343,,,～を禁じ得ない,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 18,344,,,～を余儀なくされる／～を余儀なくさせられる,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 19,345,,,～を余儀なくされる／～を余儀なくさせられる,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 20,346,,,～を余儀なくされる／～を余儀なくさせられる,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第20課 - 21,347,,,～を余儀なくされる／～を余儀なくさせられる,,,,not_scanned,,unknown,n1-ocr ends before lesson 18
+第15課 - MISSING,,Bunpou_p75-p89_visual.md,128,,～にひきかえ,,大変な時代の中でも一生懸命に生きているその主人公にひきかえ、今のわたしは何とだらしないのだろう。,missing_in_legacy,,missing,create a new card and audio after review

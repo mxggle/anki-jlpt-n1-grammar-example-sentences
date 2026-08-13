@@ -27,3 +27,4 @@ requirements.txt
 
 # Workbench: intermediate audit/repair artifacts (reports, temp scripts, JSON dumps)
 /workbench/
+/reconciliation/

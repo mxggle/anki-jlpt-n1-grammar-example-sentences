@@ -7,6 +7,7 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=for-the-badge)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Cards](https://img.shields.io/badge/Cards-343-green?style=for-the-badge)](https://github.com/mxggle/anki-jlpt-n1-grammar-example-sentences)
 [![Audio](https://img.shields.io/badge/Audio-343-orange?style=for-the-badge)](https://github.com/mxggle/anki-jlpt-n1-grammar-example-sentences)
+[![Version](https://img.shields.io/badge/Version-v2.0.0-8a2be2?style=for-the-badge)](CHANGELOG.md)
 
 </div>
 
@@ -145,6 +146,14 @@
 从 [Releases](https://github.com/mxggle/anki-jlpt-n1-grammar-example-sentences/releases) 页面下载最新的 `.apkg` 文件，直接导入Anki使用。
 
 注意：**请下载 `.apkg` 文件，不要下载源代码 zip 文件**。
+
+## 维护与发布
+
+- 当前版本：**v2.0.0**
+- 版本记录：[CHANGELOG.md](CHANGELOG.md)
+- 标准发布流程：[RELEASE.md](RELEASE.md)
+
+`.apkg` 构建会同步卡片、模板、样式、媒体和包内牌组说明，并保留既有 GUID/ID 以保护学习进度。由于 Anki 不保证导入包会覆盖已有牌组的说明文字，维护者仍需按发布流程在 Anki 中手动同步并回读验证。
 
 ## 贡献
 

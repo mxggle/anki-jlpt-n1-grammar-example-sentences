@@ -46,8 +46,8 @@ def main() -> None:
     with REPORT_PATH.open(encoding="utf-8", newline="") as handle:
         report = list(csv.DictReader(handle))
     assert len(report) == 344
-    assert sum(row["status"] == "corrected" for row in report) == 280
-    assert sum(row["status"] == "not_scanned" for row in report) == 63
+    assert sum(row["status"] == "corrected" for row in report) == 343
+    assert sum(row["status"] == "not_scanned" for row in report) == 0
     assert sum(row["status"] == "missing_in_legacy" for row in report) == 1
     print(f"VALIDATION PASSED: {len(cards)} cards, {len(report)} reconciliation rows, {len(list(MEDIA_DIR.glob('*.mp3')))} MP3 files")
 

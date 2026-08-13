@@ -24,3 +24,6 @@ requirements.txt
 
 # Logs
 *.log
+
+# Workbench: intermediate audit/repair artifacts (reports, temp scripts, JSON dumps)
+/workbench/
